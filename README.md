@@ -4,7 +4,7 @@ A simple interactive graphical user interface (GUI) application for encrypting a
 
 ---
 
-### Features
+## Features
 - **Encryption and Decryption**: Process of text in either mode with a user-specified shift value.
 - **Intuitive GUI**: A clear and responsive interface for better user experience.
 - **Error Handling**: Provides feedback for invalid inputs like non-integer shift values or empty text.
@@ -13,14 +13,14 @@ A simple interactive graphical user interface (GUI) application for encrypting a
 
 ---
 
-### How It Works
+## How It Works
 The Caesar Cipher shifts each letter in the input text by a specified number of places in the alphabet. 
 - In **encryption mode**, the text is shifted forward.
 - In **decryption mode**, the text is shifted backward.
 
 ---
 
-### Requirements
+## Requirements
 - Python 3.x
 - Tkinter (comes pre-installed with Python on most systems)
   
@@ -32,7 +32,7 @@ pip install tk
 
 ---
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -52,6 +52,6 @@ pip install tk
 ---
 
 
-### Screenshot of GUI
+## Screenshot of GUI
 
 ![Caesar_Cipher GUI](https://github.com/user-attachments/assets/4bc0705d-3e9a-4d59-9028-acc5750d4e75)
